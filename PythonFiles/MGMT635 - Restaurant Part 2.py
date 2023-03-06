@@ -1,3 +1,5 @@
+# Predicting monthly revenue of restaurants with a GridSearch optimized Neural Network and a Multiple Linear Regression algorithm. 
+
 import pandas as pd
 import numpy as np
 
