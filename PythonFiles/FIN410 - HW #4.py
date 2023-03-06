@@ -1,4 +1,4 @@
-# FIN 410 HW #4 Random Forrest and Support Vector Machine
+# FIN 410 HW #4 Random Forest and Support Vector Machine
 # Samuel M. Reisgys
 
 import pandas as pd
